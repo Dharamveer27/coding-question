@@ -11,10 +11,7 @@ import java.util.Random;
 
 import javax.swing.JFrame;
 
-/**
- * @author "Baker : http://blog.naver.com/knwer782"
- *
- */
+
 public class GameOfLife extends Canvas implements Runnable
 {
 	private static final long serialVersionUID = 1L;
